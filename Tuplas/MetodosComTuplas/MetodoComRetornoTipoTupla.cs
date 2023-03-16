@@ -12,5 +12,10 @@ namespace Tuplas.MetodosComTuplas
         {
             return("Paulo Santos", 6);
         }
+        public static (string TipoProduto, int Quantidade) GetTipoProduto()
+        {
+            return("Carros", 100);
+        }
+
     }
 }

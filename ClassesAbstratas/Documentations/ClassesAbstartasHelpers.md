@@ -1,6 +1,6 @@
 ﻿
 
-# Documentação referente as calsses Abstartas.
+# Documentação referente as calsses Abstratas.
 
 ## Usando e implementando classes abstratas
 * Antes de olharmos as  classes abstratas,
